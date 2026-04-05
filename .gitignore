@@ -1,0 +1,4 @@
+tally.json
+__pycache__/
+*.pyc
+*.pyo
